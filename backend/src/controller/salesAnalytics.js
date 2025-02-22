@@ -1,4 +1,3 @@
-import pkg from 'pg';
 import pool from '../config/db.js';
 import dotenv from 'dotenv';
 

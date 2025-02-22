@@ -2,7 +2,7 @@ import express from 'express';
 import router from './routes/api.route.js';
 import cors from 'cors';
 
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || 5432;
 
 const app = express();
 
