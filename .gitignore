@@ -50,3 +50,5 @@ artifacts
 
 # Vercel
 .vercel
+
+package-lock.json
